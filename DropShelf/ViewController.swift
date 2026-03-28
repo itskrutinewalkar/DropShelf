@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  DropShelf
-//
-//  Created by Kruti Newalkar on 08/02/26.
-//
-
 import Cocoa
 
 class ViewController: NSViewController {
